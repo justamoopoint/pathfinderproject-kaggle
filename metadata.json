@@ -1,0 +1,5 @@
+{
+  "name": "Pathfinder Project/SevaPath AI Triage",
+  "description": "An intelligent multi-agent medical triage and logistics system powered by Gemini. It features a swarm of agents handling Triage, Logistics, and Clinical decision support.",
+  "requestFramePermissions": []
+}
