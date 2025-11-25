@@ -90,7 +90,7 @@ Deployment: Google Cloud Run (Node.js container).
 
 3. Google AI Implementation Strategy
 
-We leveraged the specific capabilities of the new GenAI SDK to earn the "Effective Use of Gemini" and "Tooling" bonus points.
+We leveraged the specific capabilities of the new GenAI SDK
 
 A. Structured Output with Gemini 2.5 Flash
 
